@@ -10,3 +10,13 @@ numpy
 umap-learn
 requests
 dataclasses; python_version<"3.7"
+sqlite3  # Built-in, does not need to be installed separately
+google-generativeai
+streamlit
+pandas
+plotly
+matplotlib
+numpy
+SpeechRecognition
+gTTS
+playsound
