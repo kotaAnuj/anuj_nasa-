@@ -9,22 +9,7 @@ pandas
 numpy
 umap-learn
 requests
-dataclasses;
-sqlite3 
-streamlit
-pandas
-plotly
-matplotlib
-numpy
-SpeechRecognition
-gTTS
-playsound
 sqlite3
-google-generativeai
-streamlit
-pandas
-plotly
-matplotlib
 numpy
 speechrecognition
 gTTS
@@ -34,3 +19,4 @@ seaborn
 scikit-learn
 scipy
 umap-learn
+dataclasses; python_version<"3.7"
