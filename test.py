@@ -11,7 +11,7 @@ import requests
 GOOGLE_API_KEY = "AIzaSyA5HtRnzGruiia-aKtMMLnBjJ0ovTh11nE"
 
 class Tools:
-    def _init_(self):
+    def __init__(self):
         self.available_tools = {
             "image_generation": {
                 "function": self.image_generation_tool,
