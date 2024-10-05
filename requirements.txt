@@ -9,9 +9,8 @@ pandas
 numpy
 umap-learn
 requests
-dataclasses; python_version<"3.7"
-sqlite3  # Built-in, does not need to be installed separately
-google-generativeai
+dataclasses;
+sqlite3 
 streamlit
 pandas
 plotly
