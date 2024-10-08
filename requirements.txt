@@ -9,7 +9,7 @@ pandas
 numpy
 umap-learn
 requests
-sqlite3
+
 numpy
 speechrecognition
 gTTS
